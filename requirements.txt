@@ -1,0 +1,8 @@
+jupyterlab
+numpy
+pandas
+geopandas
+descartes
+folium
+contextily
+openpolicedata
